@@ -1,16 +1,17 @@
 # Conditional Imitation Learning on Radio Controlled Car
-This repository is still under construction, please don't follow this repository yet :D
 
-This repository full repository to implement 'conditional imitation learning' on 1/10-scale RC car
+This is full repository to "End-to-End Autonomous Driving on 1/10-Scale car Using Conditional Imitation Learning".
 
 These are the hardwares I used in this project:
 1. U.S. 4x4 Military Vehicle | HG-P408 | 1/10-Scale Radio Controlled Car
 2. Intel® RealSense™ Depth Camera D435i
 3. NVIDIA Jetson TX2 Developer Kit
+4. Arduino Nano
+5. Adafruit PCA9685
 
 You can clone this repository to your local machine
 ```
-git clone https://github.com/nelsoonc/Imitation_Learning.git
+git clone https://github.com/nelsoonc/Conditional_Imitation_Learning.git
 ```
 
 ### installLibrealsense
