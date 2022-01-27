@@ -1,9 +1,8 @@
-
-
-
-
 # Conditional Imitation Learning on 1/10-Scale Car
 Repository contains Python scripts to implement conditional imitation learning on 1/10-scale car.
+
+## Demo
+<img src="https://github.com/nelsoonc/testingmd/blob/main/CIL/CIL.gif" title="Conditional Imitation Learning" height="360"/>
 
 ## Tested System (Jetson TX2)
 - TensorFlow 2.5.0
