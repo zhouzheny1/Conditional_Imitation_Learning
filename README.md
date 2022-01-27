@@ -1,6 +1,8 @@
 # Conditional Imitation Learning on Radio Controlled Car
 
-This is full repository to "End-to-End Autonomous Driving on 1/10-Scale car Using Conditional Imitation Learning".
+<img src="https://github.com/nelsoonc/file_references/blob/main/CIL/Final%20System.jpg" title="Conditional Imitation Learning" height="360"/>
+
+This is full repository to "Implementation of Conditional Imitation Learning on Autonomous Driving System".
 
 These are the hardwares I used in this project:
 1. U.S. 4x4 Military Vehicle | HG-P408 | 1/10-Scale Radio Controlled Car
